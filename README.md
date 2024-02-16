@@ -1,0 +1,4 @@
+
+# Modeling and Simulation Project - Monte Carlo Simulation for Option Pricing
+
+This project presents a thorough examination of option pricing methodologies, contrasting Monte Carlo simulation with the Black-Scholes model. It begins with an introduction discussing what are options and their significance in financial markets. The modeling of stock trajectories using Geometric Brownian Motion (GBM) is explored, alongside Monte Carlo simulation techniques for stock price prediction. The Black-Scholes model is then introduced, outlining its formula and assumptions. A methodology for comparing the two approaches is given, leading to the presentation and analysis of results, which are subsequently discussed. Finally, the project concludes by summarizing key findings and providing insights into the applicability of each method in various scenarios.
